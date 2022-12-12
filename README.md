@@ -23,9 +23,10 @@ We are using historical data from 1990 until 2022.
 - VKOSPI: Korea Stock Exchange KOSPI Index
 - VIX: S&P 500 Volatility Index
 
-## Sources
+## Sources (Data Access)
 
 Data is downloaded from Yahoo Finance and the Fred. 
 
 https://finance.yahoo.com/
+
 https://fred.stlouisfed.org/
